@@ -168,9 +168,9 @@ Retorna uma lista de todos os agendamentos, caminhões, moradores, relatórios e
 Sinta-se à vontade para contribuir com o projeto. Para isso, siga os seguintes passos:
 
 - Faça um fork do projeto.
-- Crie uma nova branch: git checkout -b minha-nova-feature.
-- Faça suas alterações e commit: git commit -m 'Adiciona nova feature'.
-- Envie suas alterações para o repositório: git push origin minha-nova-feature.
+- Crie uma nova branch: `git checkout -b minha-nova-feature`.
+- Faça suas alterações e commit: `git commit -m 'Adiciona nova feature'`.
+- Envie suas alterações para o repositório: `git push origin minha-nova-feature`.
 - Abra um Pull Request.
 
 
