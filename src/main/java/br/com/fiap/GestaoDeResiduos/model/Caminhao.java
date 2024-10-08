@@ -13,7 +13,6 @@ import org.springframework.data.mongodb.core.mapping.Document;
 public class Caminhao {
     @Id
     public String id;
-
     private String numeroPlaca;
     private Posicao posicaoAtual;
     private String status;

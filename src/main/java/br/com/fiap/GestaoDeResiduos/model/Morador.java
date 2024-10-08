@@ -24,4 +24,5 @@ public class Morador {
     private List<String> notificacoes;
 
     private String areaColeta;
+
 }
