@@ -6,7 +6,7 @@ on:
 
 jobs:
   echo:
-    runs-on: unbuntu-latest
+    runs-on: ubuntu-latest
     steps:
       - name: Exibir o evento
         run: echo "Workflow disparado por ${{ github.event_name }}"
